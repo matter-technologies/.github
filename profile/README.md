@@ -1,3 +1,3 @@
-Living Materials for a Flourishing Future
+**Living Materials for a Flourishing Future.**
 
 website: [matter.tech](https://www.matter.tech)
