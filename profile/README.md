@@ -2,22 +2,10 @@
     <img src="https://matter-technologies.github.io/.assets/image/logo/matter-logo_light.png" width="20%" height="20%" alt="Matter Technologies Logo">
 </p>
 <h1 align='center' style='border-bottom: none;'>Matter</h1>
-<h3 align='center'>Living Futures</h3>
+<h3 align='center'>Living Materials for a Flourishing Future</h3>
 
 
-**Living Materials for a Flourishing Future.**
-
-website: [matter.tech](https://www.matter.tech)
-<p align="center">
-    <img src="https://matter-technologies.github.io/.assets/image/logo/matter-logo_light.png" width="20%" height="20%" alt="Matter Technologies Logo">
-</p>
-<h1 align='center' style='border-bottom: none;'>Matter</h1>
-<h3 align='center'>Living Futures</h3>
-
-
-**Living Materials for a Flourishing Future.**
-
-Matter Technologies is a company that specializes in the development of sustainable and regenerative building materials. Our mission is to create products that not only reduce the environmental impact of buildings but also actively improve the surrounding ecosystem.
+Matter Technologies specializes in the development of sustainable and regenerative building materials. Our mission is to create products that not only reduce the environmental impact of buildings but also actively improve the surrounding ecosystem.
 
 Our core product line includes a variety of eco-friendly building materials made from natural, renewable, and recycled resources. Our products  are designed to be long-lasting, energy-efficient, and healthy for indoor and outdoor environments.=
 
